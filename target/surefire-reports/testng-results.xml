@@ -14,12 +14,12 @@
       <![CDATA[Screen Shot Taken]]>
     </line>
   </reporter-output>
-  <suite name="LoginTCSuite" duration-ms="29206" started-at="2020-07-31T00:12:37Z" finished-at="2020-07-31T00:13:06Z">
+  <suite name="LoginTCSuite" duration-ms="38486" started-at="2020-07-31T00:54:16Z" finished-at="2020-07-31T00:54:54Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="29206" started-at="2020-07-31T00:12:37Z" finished-at="2020-07-31T00:13:06Z">
+    <test name="Test" duration-ms="38486" started-at="2020-07-31T00:54:16Z" finished-at="2020-07-31T00:54:54Z">
       <class name="com.busyqa.batch16.uitests.testCases.TC01_LoginTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="setUp" is-config="true" duration-ms="13002" started-at="2020-07-31T05:42:37Z" finished-at="2020-07-31T05:42:50Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="setUp" is-config="true" duration-ms="13223" started-at="2020-07-31T06:24:16Z" finished-at="2020-07-31T06:24:29Z">
           <params>
             <param index="0">
               <value>
@@ -35,7 +35,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="failed_TC1()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="failed_TC1" duration-ms="384" started-at="2020-07-31T05:42:50Z" finished-at="2020-07-31T05:42:50Z">
+        <test-method status="FAIL" signature="failed_TC1()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="failed_TC1" duration-ms="316" started-at="2020-07-31T06:24:29Z" finished-at="2020-07-31T06:24:29Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -74,35 +74,35 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failed_TC1 -->
-        <test-method status="PASS" signature="loginTest01()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="loginTest01" duration-ms="4914" started-at="2020-07-31T05:42:50Z" finished-at="2020-07-31T05:42:55Z">
+        <test-method status="PASS" signature="loginTest01()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="loginTest01" duration-ms="10085" started-at="2020-07-31T06:24:29Z" finished-at="2020-07-31T06:24:39Z">
           <reporter-output>
             <line>
               <![CDATA[Screen Shot Taken]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest01 -->
-        <test-method status="PASS" signature="loginTest02()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="loginTest02" duration-ms="2042" started-at="2020-07-31T05:42:55Z" finished-at="2020-07-31T05:42:57Z">
+        <test-method status="PASS" signature="loginTest02()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="loginTest02" duration-ms="2084" started-at="2020-07-31T06:24:39Z" finished-at="2020-07-31T06:24:41Z">
           <reporter-output>
             <line>
               <![CDATA[Screen Shot Taken]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest02 -->
-        <test-method status="PASS" signature="loginTest03()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="loginTest03" duration-ms="1884" started-at="2020-07-31T05:42:57Z" finished-at="2020-07-31T05:42:59Z">
+        <test-method status="PASS" signature="loginTest03()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="loginTest03" duration-ms="2033" started-at="2020-07-31T06:24:41Z" finished-at="2020-07-31T06:24:43Z">
           <reporter-output>
             <line>
               <![CDATA[Screen Shot Taken]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest03 -->
-        <test-method status="PASS" signature="loginTest04()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="loginTest04" duration-ms="6564" started-at="2020-07-31T05:42:59Z" finished-at="2020-07-31T05:43:06Z">
+        <test-method status="PASS" signature="loginTest04()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="loginTest04" duration-ms="6530" started-at="2020-07-31T06:24:43Z" finished-at="2020-07-31T06:24:50Z">
           <reporter-output>
             <line>
               <![CDATA[Screen Shot Taken]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest04 -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@27976390]" name="endTest" is-config="true" duration-ms="347" started-at="2020-07-31T05:43:06Z" finished-at="2020-07-31T05:43:06Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.busyqa.batch16.uitests.testCases.TC01_LoginTest@33a3c44a]" name="endTest" is-config="true" duration-ms="4171" started-at="2020-07-31T06:24:50Z" finished-at="2020-07-31T06:24:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->

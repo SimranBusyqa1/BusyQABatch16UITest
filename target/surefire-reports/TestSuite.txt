@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.558 s <<< FAILURE! - in TestSuite
-failed_TC1(com.busyqa.batch16.uitests.testCases.TC01_LoginTest)  Time elapsed: 0.035 s  <<< FAILURE!
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 41.804 s <<< FAILURE! - in TestSuite
+failed_TC1(com.busyqa.batch16.uitests.testCases.TC01_LoginTest)  Time elapsed: 0.02 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at com.busyqa.batch16.uitests.testCases.TC01_LoginTest.failed_TC1(TC01_LoginTest.java:175)
 
