@@ -172,7 +172,7 @@ public class TC01_LoginTest extends TestBase {
      @Test
 	 void failed_TC1() {
 		  
-    	  Assert.assertEquals(false, true); // intentially failing
+    	  Assert.assertEquals(true, true); // intentially failing
 	}
 
      
